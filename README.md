@@ -1,9 +1,9 @@
 
 # Hi!
 
-🇲🇽   [Spanish](http://google.com "Spanish")
+🇲🇽   [Spanish](https://github.com/Artured/Asusu-ACPI-Error-Ubuntu/blob/main/languages/README-es.md "Spanish")
 
-This is a solution for the ACPI Error on dual boot ( W10 & Ubuntu ) in a Laptop ASUS TUF GAMING con NVMe SSD M.2
+This is a solution for the ACPI Error on dual boot ( W10 & Ubuntu ) in a Laptop ASUS TUF GAMING - NVMe SSD M.2
 
 
 ------------
@@ -46,7 +46,7 @@ This is a solution for the ACPI Error on dual boot ( W10 & Ubuntu ) in a Laptop 
 
 * In the pendrive go to:
 
- `cd   /Boot /grub`
+   `cd   /Boot /grub`
 
 
 * Edit the next file:

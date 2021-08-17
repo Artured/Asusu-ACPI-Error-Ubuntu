@@ -22,7 +22,7 @@ Esta es una solucion a los Errores de ACPI para dual boot ( W10 & Ubuntu )  en u
 
 
 
-####Prerrequisitos
+#### Prerrequisitos
 
 * Memoria USB Booteable con Ubuntu.
 
@@ -46,7 +46,7 @@ Esta es una solucion a los Errores de ACPI para dual boot ( W10 & Ubuntu )  en u
 
 * Dentro de la USB.
 
- `cd   /Boot /grub`
+   `cd   /Boot /grub`
 
 
 * Encontraras el archivo:
