@@ -26,9 +26,9 @@ Esta es una solucion a los Errores de ACPI para dual boot ( W10 & Ubuntu )  en u
 
 * Memoria USB Booteable con Ubuntu.
 
- `Sistema de archivos - Fat32`
+   `Sistema de archivos - Fat32`
 
- `Esquema de particion - MBR`
+   `Esquema de particion - MBR`
 
 
 > Crear soportes USB de arranque con [RUFUS](https://rufus.ie/es/ "RUFUS")
@@ -71,3 +71,7 @@ Esta es una solucion a los Errores de ACPI para dual boot ( W10 & Ubuntu )  en u
 
 
 ![](https://raw.githubusercontent.com/Artured/Asusu-ACPI-Error-Ubuntu/main/images/code-snapshot-2.png)
+
+
+
+* Guardalo y correlo.

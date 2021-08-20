@@ -26,9 +26,9 @@ This is a solution for the ACPI Error on dual boot ( W10 & Ubuntu ) in a Laptop 
 
 * Pendrive Booteable with Ubuntu.
 
- `File sistem - Fat32`
+   `File sistem - Fat32`
 
- `Partition scheme - MBR`
+   `Partition scheme - MBR`
 
 
 > Make a Pendrive Booteable with [RUFUS](https://rufus.ie/es/ "RUFUS")
@@ -72,3 +72,6 @@ This is a solution for the ACPI Error on dual boot ( W10 & Ubuntu ) in a Laptop 
 
 ![](https://raw.githubusercontent.com/Artured/Asusu-ACPI-Error-Ubuntu/main/images/code-snapshot-2.png)
 
+
+
+* Save it and run it.
